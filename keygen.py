@@ -1,7 +1,6 @@
 import os
 from pathlib import Path
 
-
 from secure_transfer_utils import generate_rsa_keypair
 
 PRIVATE_KEY_PATH = Path(
