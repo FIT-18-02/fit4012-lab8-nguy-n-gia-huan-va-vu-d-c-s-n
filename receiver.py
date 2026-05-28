@@ -8,7 +8,6 @@ from secure_transfer_utils import (
     recv_secure_packet,
 )
 
-
 HOST = os.getenv("RECEIVER_HOST", "0.0.0.0")
 DATA_PORT = int(os.getenv("DATA_PORT", os.getenv("PORT", "6000")))
 RECEIVER_PRIVATE_KEY = os.getenv(
