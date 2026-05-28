@@ -3,7 +3,6 @@
 
 ## Team members
 
-
 - Thành viên 1: Nguyễn Gia Huân - MSSV: 1871020264
 - Thành viên 2: Vũ Đức Sơn - MSSV: 1871020507
 
