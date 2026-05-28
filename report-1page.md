@@ -1,6 +1,5 @@
 # Lab 8 - Báo cáo 1 trang
 
-
 ## 1. Mục tiêu
 
 Mục tiêu của bài Lab 8 là xây dựng chương trình truyền dữ liệu an toàn giữa Sender và Receiver thông qua TCP socket bằng mô hình mã hóa lai (Hybrid Encryption).
