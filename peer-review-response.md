@@ -2,7 +2,6 @@
 
 ## Thông tin nhóm được review
 
-
 - Tên nhóm: Nguyễn Gia Huân và Vữ Đức Sơn
 - Repository: fit4012-lab8-nguy-n-gia-huan-va-vu-d-c-s-n
 - Người review: Nguyễn Gia Huân
